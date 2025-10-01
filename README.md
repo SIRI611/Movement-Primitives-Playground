@@ -248,20 +248,6 @@ config = CNMPConfig(
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-### Development Setup
-
-```bash
-git clone https://github.com/yourusername/Movement-Primitives-Playground.git
-cd Movement-Primitives-Playground
-pip install -e .[dev]
-```
-
-### Running Tests
-
-```bash
-pytest tests/
-```
-
 
 ## License
 
