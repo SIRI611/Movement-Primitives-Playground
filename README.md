@@ -262,12 +262,6 @@ pip install -e .[dev]
 pytest tests/
 ```
 
-### Code Style
-
-This project uses:
-- Black for code formatting
-- Flake8 for linting
-- MyPy for type checking
 
 ## License
 
@@ -280,9 +274,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{movement_primitives_playground,
   title={Movement Primitives Playground: A Comprehensive Framework for Movement Primitive Algorithms},
-  author={Your Name},
+  author={Xirui Shi},
   year={2024},
-  url={https://github.com/yourusername/Movement-Primitives-Playground}
+  url={https://github.com/SIRI611/Movement-Primitives-Playground.git}
 }
 ```
 
